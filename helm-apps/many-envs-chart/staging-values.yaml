@@ -1,3 +1,2 @@
 replicaCount: 3
-image:
-tag: v3.0
+
